@@ -84,4 +84,4 @@ def snippet_view(language):
 
 
 
-app.run(host="192.168.5.59")
+app.run(debug=False)
